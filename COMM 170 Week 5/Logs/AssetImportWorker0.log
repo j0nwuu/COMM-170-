@@ -547,3 +547,15 @@ Received Import Request.
   path: Assets/Scenes/3D Model Practice.unity
   artifactKey: Guid(bde2f3d8a88895c40811cedb0d7a0ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/3D Model Practice.unity using Guid(bde2f3d8a88895c40811cedb0d7a0ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e2c1564bea0a5fbbe4df3f655ebde49') in 0.002007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 272.479403 seconds.
+  path: Assets/Samples
+  artifactKey: Guid(b657d2163166c1b49aafbd059c0c31cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples using Guid(b657d2163166c1b49aafbd059c0c31cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03f53597a8a1b5e91ef1b943949d9c5d') in 0.006336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.110041 seconds.
+  path: Assets/3D Models
+  artifactKey: Guid(7efc9c2a5944142dd9607e0b5991d4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Models using Guid(7efc9c2a5944142dd9607e0b5991d4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b458364749fe32dcd490f25c947dc11') in 0.004209 seconds 
